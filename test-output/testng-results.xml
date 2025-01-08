@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-01-08T19:27:33 IST" name="Suite" finished-at="2025-01-08T19:27:36 IST" duration-ms="2227">
+    <groups>
+    </groups>
+    <test started-at="2025-01-08T19:27:33 IST" name="APIGetTest" finished-at="2025-01-08T19:27:36 IST" duration-ms="2227">
+      <class name="org.test.apiTesting.TC001_GETCall_FIS">
+        <test-method signature="TC001_verifyGETCall()[pri:0, instance:org.test.apiTesting.TC001_GETCall_FIS@6e0f5f7f]" started-at="2025-01-08T19:27:33 IST" name="TC001_verifyGETCall" finished-at="2025-01-08T19:27:36 IST" duration-ms="2179" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC001_verifyGETCall -->
+      </class> <!-- org.test.apiTesting.TC001_GETCall_FIS -->
+    </test> <!-- APIGetTest -->
+  </suite> <!-- Suite -->
+</testng-results>
